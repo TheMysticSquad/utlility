@@ -1,9 +1,1 @@
-*.pyc
-__pycache__/
-*.db
-build/
-dist/
-*.spec
-*.apk
-.venv/
 
